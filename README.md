@@ -4,7 +4,7 @@
 
 Запуск - через `python CompareAln.py` или 
 
-`chmod a+x CompareAln.py`
+`chmod a+x CompareAln.py`\n
 `./CompareAln.py`
 
 При запуске программы в качестве первого и второго аргументов подаётся два пути
