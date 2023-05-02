@@ -18,3 +18,5 @@
 и координаты блоков из идущих подряд одинаково выравненных колонок. В out.txt - координаты совпадающих колонок.
 
 В папке tests расположены тестовые выравнивания белков SRP54 нескольких разных организмов, выполненные программами Muscle (aln_muscle.fasta) и Clustal (aln_clustal.fasta), в файле out.txt - пары (i,j) совпадающих колонок выравниваний. 
+В файле stdout.txt - вывод в stdout при запуске 
+`./CompareAln.py -v aln_muscle.fasta aln_clustal.fasta out.txt`
